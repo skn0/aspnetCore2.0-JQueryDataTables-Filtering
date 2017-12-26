@@ -1,0 +1,10 @@
+C:\aspnetCoreJQueryDataTables-2.0\Abc.Web\bin\Debug\netcoreapp2.0\Abc.Web.deps.json
+C:\aspnetCoreJQueryDataTables-2.0\Abc.Web\bin\Debug\netcoreapp2.0\Abc.Web.runtimeconfig.json
+C:\aspnetCoreJQueryDataTables-2.0\Abc.Web\bin\Debug\netcoreapp2.0\Abc.Web.runtimeconfig.dev.json
+C:\aspnetCoreJQueryDataTables-2.0\Abc.Web\bin\Debug\netcoreapp2.0\Abc.Web.dll
+C:\aspnetCoreJQueryDataTables-2.0\Abc.Web\bin\Debug\netcoreapp2.0\Abc.Web.pdb
+C:\aspnetCoreJQueryDataTables-2.0\Abc.Web\obj\Debug\netcoreapp2.0\Abc.Web.csproj.CoreCompileInputs.cache
+C:\aspnetCoreJQueryDataTables-2.0\Abc.Web\obj\Debug\netcoreapp2.0\Abc.Web.AssemblyInfoInputs.cache
+C:\aspnetCoreJQueryDataTables-2.0\Abc.Web\obj\Debug\netcoreapp2.0\Abc.Web.AssemblyInfo.cs
+C:\aspnetCoreJQueryDataTables-2.0\Abc.Web\obj\Debug\netcoreapp2.0\Abc.Web.dll
+C:\aspnetCoreJQueryDataTables-2.0\Abc.Web\obj\Debug\netcoreapp2.0\Abc.Web.pdb
